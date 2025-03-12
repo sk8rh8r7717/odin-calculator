@@ -1,2 +1,2 @@
 # odin-calculator
-Web based calculator for The Oding Project
+Web based calculator for The Odin Project
